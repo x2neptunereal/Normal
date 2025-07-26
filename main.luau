@@ -2,7 +2,7 @@ local available : boolean = false
 local player : Instance = game.Players.LocalPlayer
 local developers : {} = {
     Zanexy = {
-        loader = '',
+        loader = 'https://api.luarmor.net/files/v3/loaders/41cb3148565c0d854cd6996a940d6e5c.lua',
         games = {
             994732206, -- Blox Fruit
             1451439645, -- King Legacy
