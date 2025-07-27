@@ -1,4 +1,4 @@
-local available : boolean = false
+local available : boolean = true
 local player : Instance = game.Players.LocalPlayer
 local developers : {} = {
     Zanexy = {
