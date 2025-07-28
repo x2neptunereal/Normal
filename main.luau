@@ -8,6 +8,7 @@ local developers : {} = {
             1451439645, -- King Legacy
             5184146090, -- Second Piece
             1202096104, -- Driving Empire
+            4658598196, -- ไอสัสลืมชื่อแมพ AOTR
         },
     },
     Ares = {
