@@ -5,16 +5,15 @@ local developers : {} = {
         loader = 'https://api.luarmor.net/files/v3/loaders/41cb3148565c0d854cd6996a940d6e5c.lua',
         games = {
             994732206, -- Blox Fruit
-            1451439645, -- King Legacy
             5184146090, -- Second Piece
             1202096104, -- Driving Empire
             4658598196, -- ไอสัสลืมชื่อแมพ AOTR
         },
     },
     Ares = {
-        loader = '',
+        loader = 'https://api.luarmor.net/files/v3/loaders/c61aa36133d42146248290554908e3fe.lua',
         games = {
-            -- None
+            1451439645, -- King Legacy
         },
     },
     Go = {
