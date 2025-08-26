@@ -17,7 +17,7 @@ local developers : {} = {
         },
     },
     Go = {
-        loader = 'https://api.luarmor.net/files/v3/loaders/bda9a3bea41595d4523f398139890d2b.lua',
+        loader = 'https://api.realaya.xyz/v1/files/l/rowid0r5jyc7ll9iyushxoh4zclcqen2.lua',
         games = {
             5578556129, -- Anime Vanguards
             6884266247, -- Anime Rangers X
