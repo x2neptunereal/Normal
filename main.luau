@@ -11,7 +11,7 @@ local developers : {} = {
         },
     },
     Ares = {
-        loader = 'https://api.luarmor.net/files/v3/loaders/c61aa36133d42146248290554908e3fe.lua',
+        loader = 'https://api.realaya.xyz/v1/files/l/3c4ici9jcmn014l1iuc705oph95qvta8.lua',
         games = {
             1451439645, -- King Legacy
         },
