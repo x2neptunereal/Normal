@@ -2,7 +2,7 @@ local available : boolean = true
 local player : Instance = game.Players.LocalPlayer
 local developers : {} = {
     Zanexy = {
-        loader = 'https://api.realaya.xyz/v1/files/l/phwp20noh8tbkcat6b3zp3hsznbwilv6.lua',
+        loader = 'https://api.realaya.xyz/v1/files/l/lt3drp2fgt86jg990r3seqj5ce866n5e.lua',
         games = {
             994732206, -- Blox Fruit
             5184146090, -- Second Piece
