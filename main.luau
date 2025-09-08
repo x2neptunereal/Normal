@@ -8,6 +8,7 @@ local developers : {} = {
             5184146090, -- Second Piece
             1202096104, -- Driving Empire
             4658598196, -- ไอสัสลืมชื่อแมพ AOTR
+            7750955984, -- Hunty Zombie
         },
     },
     Ares = {
