@@ -24,7 +24,7 @@ local developers : {} = {
             6884266247, -- Anime Rangers X
             4509896324, -- Anime Last Stand
             6057699512, -- All Star Tower Defense X
-            -- 7326934954, -- 99 Night
+            7326934954, -- 99 Night
         },
     },
     x2Neptune = {
